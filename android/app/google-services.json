@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149353407539",
+    "project_id": "modern-login-ui-auth",
+    "storage_bucket": "modern-login-ui-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149353407539:android:c230e55e89b93ea5d06f46",
+        "android_client_info": {
+          "package_name": "com.example.modern_login_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn2h3B-1Xclu4PrLnP7JLnnin6Zat6c_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
